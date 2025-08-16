@@ -1,4 +1,4 @@
-![Demo](https://github.com/Deeptiwakchaure/Form-Builder/output/frontpage.png)
+![Demo](https://github.com/Deeptiwakchaure/Form-Builder/blob/main/output/frontpage.png)
 # Form-Builder
 
 A professional and customizable form builder application built using the **MERN Stack (MongoDB, Express, React, Node.js)** with **Tailwind CSS** for styling. This project allows users to create, edit, and preview forms with a clean and responsive interface.
