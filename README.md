@@ -5,7 +5,7 @@ A professional and customizable form builder application built using the **MERN 
 
 ---
 
-## 🚀 Features
+##  Features
 - Create dynamic and customizable forms  
 - Responsive UI powered by Tailwind CSS  
 - Real-time preview of forms before saving  
@@ -14,7 +14,7 @@ A professional and customizable form builder application built using the **MERN 
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - **Frontend:** React, Tailwind CSS  
 - **Backend:** Node.js, Express.js  
